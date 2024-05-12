@@ -31,9 +31,6 @@ To enhance real-time performance, the trained model has been optimized using Ope
 - OpenVINO
 - Other dependencies as specified in the requirements.txt file
 
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## Acknowledgments
 - Kaggle for providing the Plant Seedlings Classification competition dataset.
 - Nile University for providing real greenhouse data for model augmentation.
